@@ -10,26 +10,20 @@ Start the Game:
 
 Press any key to start the game.
 You'll hear a sound, and a button will light up.
-Repeat the Pattern:
 
+Repeat the Pattern:
 Memorize the sequence of button presses.
 Click on the buttons to repeat the pattern.
-Level Up:
 
+Level Up:
 Each successful repetition increases your level.
 The game gets progressively challenging.
-Game Over:
 
+Game Over:
 If you make a mistake, the game ends.
 You'll hear a "wrong" sound, and the screen will flash briefly.
-Restart the Game:
+
 
 Press any key to restart the game after a Game Over.
-Game Controls
-Keyboard:
-
-Press any key to start the game.
-Mouse:
-
 Click on the colored buttons to repeat the pattern.
 
